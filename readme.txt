@@ -3,7 +3,7 @@ Contributors: SergeyBiryukov, mihdan, karevn, webvitaly, kaggdesign
 Tags: cyrillic, georgian, latin, l10n, russian, rustolat, slugs, translations, transliteration
 Requires at least: 2.3
 Tested up to: 5.1
-Stable tag: 3.6
+Stable tag: 3.6.1
 
 Converts Cyrillic characters in post, page and term slugs to Latin characters.
 
